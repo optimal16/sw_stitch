@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+intrinsic_file: "../config/sim/intrinsic.yml"
+image_points_dir: "../config/sim/"
+stitch_file: "../config/sim/stitch.yml"
+left_right_to_front_distance: 1.5
+car_y: 5.6
+car_x: 2.2
+viewrange: 12.0
+pix_dis: 0.02

@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+intrinsic_file: "../config/051/done/intrinsic.yml"
+image_points_dir: "../config/051/done/"
+stitch_file: "../config/051/done/stitch.yml"
+left_right_to_front_distance: 1.4880000352859497e+00
+car_y: 5.391
+car_x: 2.2
+viewrange: 12.
+pix_dis: 1.9999999552965164e-02

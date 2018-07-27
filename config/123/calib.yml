@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+intrinsic_file: "../config/123/intrinsic.yml"
+image_points_dir: "../config/123/"
+stitch_file: "../config/123/stitch.yml"
+left_right_to_front_distance: 1.517
+car_y: 5.424
+car_x: 2.202
+viewrange: 12.
+pix_dis: 1.9999999552965164e-02

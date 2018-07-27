@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+intrinsic_file: "../data/apa/intrinsic.yml"
+image_points_dir: "../data/apa/"
+stitch_file: "../data/apa/stitch.yml"
+left_right_to_front_distance: 1.515
+car_y: 5.134
+viewrange: 12.0
+pix_dis: 0.02
